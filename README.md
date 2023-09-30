@@ -10,8 +10,17 @@
 - 본 프로젝트는 메타인지 향상법 중 하나인 글쓰기를 위한 플랫폼을 서비스하여 메타인지를 효율적으로 높일 수 있도록 돕는다
 
 # 📚 사용 기술
+
+[![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/ko/)
+
 ### OpenAI GPT-4 API
-- 선정 배경: Prompt Tuning을 통해 다양한 역할을 수행할 수 있으며, GPT-3.5 Turbo에 비하여 신뢰할 수 있는 결과물을 보여준다.
+- 프롬프트 튜닝을 통해 다양한 역할을 수행할 수 있으며, GPT-3.5 Turbo에 비하여 신뢰할 수 있는 결과물을 보여준다.
+### Langchain
+- LLM을 쉽게 제어할 수 있도록 돕는 프레임워크이다.
+### FastAPI
+- LLM API 를 호출할 수 있도록 API서버를 구성하는데 사용했다.
 
 # 👥 팀원 소개 및 역할
 ### [팀원 1 이름]
