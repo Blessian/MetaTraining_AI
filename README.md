@@ -19,6 +19,8 @@
 
 ### OpenAI GPT-4 API
 - 프롬프트 튜닝을 통해 다양한 역할을 수행할 수 있으며, GPT-3.5 Turbo에 비하여 신뢰할 수 있는 결과물을 보여준다.
+### Google Bard
+- 최신 이슈 검색에 활용
 ### Langchain
 - LLM을 쉽게 제어할 수 있도록 돕는 프레임워크이다.
 ### FastAPI
