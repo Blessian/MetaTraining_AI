@@ -11,7 +11,9 @@
 
 # 📚 사용 기술
 
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
 [![Openai](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Google Bard Badge](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=for-the-badge)](https://bard.google.com/chat?hl=ko)
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/ko/)
 
@@ -53,7 +55,7 @@
   ![스크린샷 2023-09-30 211320](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2c19f790-772f-49b7-8ad9-978ddb3cca16)
 
 - 최근 들려오는 소식에는 ChatGPT가 인터넷에 연결되어 검색된 정보와 링크를 제공할 것이라고 하지만, 프로젝트 진행 당시에는 GPT-4 API는 인터넷에 직접 연결되어 있지 않았음
-  사용자의 요구사항을 해결할 수 있는 검색어를 생성하도록 하고 BeautifulSoup을 이용하여 검색과 크롤링으로 링크 수집 후 제공
+  - 사용자의 요구사항을 해결할 수 있는 검색어를 생성하도록 하고 BeautifulSoup을 이용하여 검색과 크롤링으로 링크 수집 후 제공
 - 주제 추천에 최신 이슈를 반영하기 위한 방법을 모색하였으나 각 주제에 대한 최신 이슈를 골고루 반영하는 것에 여려움을 겪음
   - 구글의 바드가 검색엔진에 연결되어 있다는 것을 알게되어 각 분야의 최신 이슈를 얻는데 바드를 이용함
 
