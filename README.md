@@ -54,7 +54,7 @@
 
 # 📊  결과
 ### 최종 모델 성능과 결과 해석
-[![스크린샷 2023-09-30 202728](https://github.com/Blessian/MetaTraining_AI/assets/74029539/74e5f4fd-6a0e-48a6-bbaf-9d86326c93f2)](https://youtu.be/PF1W-fF4AwQ?si=dT6OQE_0Vbe-UHCc)
+[![스크린샷 2023-09-30 202728](http://img.youtube.com/vi/PF1W-fF4AwQ/0.jpg)](https://youtu.be/PF1W-fF4AwQ?si=dT6OQE_0Vbe-UHCc)
 
 ### 프로젝트에서 얻은 교훈과 인사이트
 프로젝트를 통해 얻은 교훈과 향후 프로젝트에 적용할 인사이트. 예를 들어, "데이터의 품질은 모델 성능에 큰 영향을 미친다는 것을 깨달았고, 데이터 수집과 전처리에 더욱 신경 써야 한다는 교훈을 얻었다."
