@@ -43,7 +43,7 @@
 
 # 📅 프로젝트 진행과정
 ### 일정관리
-- Notion을 통해 회의록 작성[링크](https://www.notion.so/AI-2324eb03fe8e47d797e7b3c72fe89e47?pvs=4)
+- [Notion을 통해 회의록 작성](https://www.notion.so/AI-2324eb03fe8e47d797e7b3c72fe89e47?pvs=4)
 - 
 ### 모델 선정과 구현
 선택한 모델의 구조와 구현 방법 설명. 예를 들어, "DeepSpeech 2 아키텍처를 선택하고 PyTorch로 구현하여 모델 학습을 진행함."
