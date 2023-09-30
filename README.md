@@ -48,8 +48,6 @@
 
 ![스크린샷 2023-09-30 190919](https://github.com/Blessian/MetaTraining_AI/assets/74029539/d18a5f9b-409a-4e6f-8e43-240b09ee9651)
 - [간트차트 작성](https://docs.google.com/spreadsheets/d/1lLzEKg-K05hdMZLEdZCs5oLfDxMPo0d_rpSOa-5KKJ0/edit#gid=1737882262)
-### 모델 선정과 구현
-선택한 모델의 구조와 구현 방법 설명. 예를 들어, "DeepSpeech 2 아키텍처를 선택하고 PyTorch로 구현하여 모델 학습을 진행함."
 ### 학습과정과 시행착오
 모델 학습 중 발생한 어려움과 시행착오, 그리고 해결 방법에 대한 설명. 예를 들어, "학습 데이터 부족으로 인한 오버피팅 문제를 해결하기 위해 데이터 증강 기술을 적용함."
 
