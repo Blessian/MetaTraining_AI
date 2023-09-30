@@ -44,7 +44,7 @@
 # 📅 프로젝트 진행과정
 ### 일정관리
 - [Notion을 통해 회의록 작성](https://www.notion.so/AI-2324eb03fe8e47d797e7b3c72fe89e47?pvs=4)
-- 
+- [간트차트 작성](https://docs.google.com/spreadsheets/d/1lLzEKg-K05hdMZLEdZCs5oLfDxMPo0d_rpSOa-5KKJ0/edit#gid=1737882262)
 ### 모델 선정과 구현
 선택한 모델의 구조와 구현 방법 설명. 예를 들어, "DeepSpeech 2 아키텍처를 선택하고 PyTorch로 구현하여 모델 학습을 진행함."
 ### 학습과정과 시행착오
