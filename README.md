@@ -5,9 +5,11 @@
 
 ![스크린샷 2023-09-30 181502](https://github.com/Blessian/MetaTraining_AI/assets/74029539/27090ed3-66e1-4a2c-87a3-bf91ed9e3b3a)
 
+
 공부법의 정석으로 여겨져 왔던 일명 "엉덩이 학습법"의 비효율이 다른 나라 학생들과의 성취도 평가 비교에서 드러나고 있다.
 
 ![스크린샷 2023-09-30 181551](https://github.com/Blessian/MetaTraining_AI/assets/74029539/5aedba1d-0c58-4662-8f12-bd19fbb5a06a)
+
 
 메타인지 향상법 중 하나인 글쓰기를 위한 플랫폼을 서비스하여 메타인지를 효율적으로 높일 수 있도록 돕는다
 
