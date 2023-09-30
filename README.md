@@ -49,6 +49,9 @@
 ![스크린샷 2023-09-30 190919](https://github.com/Blessian/MetaTraining_AI/assets/74029539/d18a5f9b-409a-4e6f-8e43-240b09ee9651)
 - [간트차트 작성](https://docs.google.com/spreadsheets/d/1lLzEKg-K05hdMZLEdZCs5oLfDxMPo0d_rpSOa-5KKJ0/edit#gid=1737882262)
 ### 학습과정과 시행착오
+- OpenAI API Playground에서 프롬프트 작성 및 테스트
+  ![스크린샷 2023-09-30 211320](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2c19f790-772f-49b7-8ad9-978ddb3cca16)
+
 - 최근 들려오는 소식에는 ChatGPT가 인터넷에 연결되어 검색된 정보와 링크를 제공할 것이라고 하지만, 프로젝트 진행 당시에는 GPT-4 API는 인터넷에 직접 연결되어 있지 않았음
   - 사용자의 요구사항을 해결할 수 있는 검색어를 생성하도록 하고 BeautifulSoup을 이용하여 검색과 크롤링으로 링크 수집 후 제공
 - 주제 추천에 최신 이슈를 반영하기 위한 방법을 모색하였으나 각 주제에 대한 최신 이슈를 골고루 반영하는 것에 여려움을 겪음
