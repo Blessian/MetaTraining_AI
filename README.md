@@ -17,7 +17,7 @@
 ![스크린샷 2023-09-30 181502](https://github.com/Blessian/MetaTraining_AI/assets/74029539/27090ed3-66e1-4a2c-87a3-bf91ed9e3b3a)
 ![스크린샷 2023-09-30 181551](https://github.com/Blessian/MetaTraining_AI/assets/74029539/5aedba1d-0c58-4662-8f12-bd19fbb5a06a)
 
-<div/>
+</div>
 
 - 공부법의 정석으로 여겨져 왔던 일명 "엉덩이 학습법"의 비효율이 다른 나라 학생들과의 성취도 평가 비교에서 드러나고 있다.
 - 따라서 그저 오랜 시간을 투자하는 방법이 아닌 실제 자신이 잘 학습하고 있는지 자문할 수 있는 능력인 "메타인지"의 함양이 대두되었다.
