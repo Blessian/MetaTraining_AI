@@ -82,21 +82,24 @@
 ![스크린샷 2023-09-30 190919](https://github.com/Blessian/MetaTraining_AI/assets/74029539/d18a5f9b-409a-4e6f-8e43-240b09ee9651)
 - [간트차트 작성](https://docs.google.com/spreadsheets/d/1lLzEKg-K05hdMZLEdZCs5oLfDxMPo0d_rpSOa-5KKJ0/edit#gid=1737882262)
 
-### 모델 선정과 구현
-최종적으로 선택한 모델과 최종 선택한 이유, 모델의 구조와 구현 방법 설명
-
 ### 진행과정 (시행착오)
-시간 순서에 따른 진행과정 나열, 발생한 어려움과 시행착오, 그리고 해결 방법에 대한 설명
+- 프롬프트 작성 및 결과 확인
+     ![스크린샷 2023-10-03 005646](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2f03ea2d-d81c-46cf-8307-0a7d39e1b981)*awesome caption*
+- 
 
 
 <br>
 
 # 📊  결과
-### 최종 모델 성능과 결과 해석
-모델의 성능 지표와 결과 해석
+### 프로젝트 시연 영상
+[![스크린샷 2023-09-30 202728](http://img.youtube.com/vi/PF1W-fF4AwQ/0.jpg)](https://youtu.be/PF1W-fF4AwQ?si=dT6OQE_0Vbe-UHCc)
 
 ### 프로젝트에서 얻은 교훈과 인사이트
-프로젝트를 통해 얻은 교훈과 향후 프로젝트에 적용할 인사이트
+- API 사용에 따른 비용 부담:
+  - 시연 영상을 녹화하며 사용자가 한 편의 글을 작성하는데 약 300~400원의 API비용이 부담되는 것으로 나타났다
+  - 사용자가 늘어날 경우 적잖은 비용 부담이 예상되기 때문에 수익모델을 고민해야 했고, 자체모델 구축 필요성을 느꼈다
+- 길어지는 프롬프트와 늘어나는 지연시간
+  - 의도된 결과물을 도출하기 위해 프롬프트에 여러가지 요구사항과 제한사항을 반영해야 했고, 그에 따라 사용자가 결과를 받기 위해 기다려야 하는 시간이 늘어났다
 
 
 <br>
@@ -120,15 +123,6 @@ AI 기술에 대한 추가 학습 계획이나 심화 프로젝트에 대한 기
 <!--
 
 # 📅 프로젝트 진행과정
-### 일정관리
-![스크린샷 2023-09-30 190808](https://github.com/Blessian/MetaTraining_AI/assets/74029539/141dc622-264f-413e-88c7-362147467ad2)
-- [Notion을 통해 회의록 작성](https://www.notion.so/AI-2324eb03fe8e47d797e7b3c72fe89e47?pvs=4)
-
-![스크린샷 2023-09-30 190919](https://github.com/Blessian/MetaTraining_AI/assets/74029539/d18a5f9b-409a-4e6f-8e43-240b09ee9651)
-- [간트차트 작성](https://docs.google.com/spreadsheets/d/1lLzEKg-K05hdMZLEdZCs5oLfDxMPo0d_rpSOa-5KKJ0/edit#gid=1737882262)
-### 진행과정과 시행착오
-- OpenAI API Playground에서 프롬프트 작성 및 테스트
-  ![스크린샷 2023-09-30 211320](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2c19f790-772f-49b7-8ad9-978ddb3cca16)
 
 - 최근 들려오는 소식에는 ChatGPT가 인터넷에 연결되어 검색된 정보와 링크를 제공할 것이라고 하지만, 프로젝트 진행 당시에는 GPT-4 API는 인터넷에 직접 연결되어 있지 않았음
   - 사용자의 요구사항을 해결할 수 있는 검색어를 생성하도록 하고 BeautifulSoup을 이용하여 검색과 크롤링으로 링크 수집 후 제공
