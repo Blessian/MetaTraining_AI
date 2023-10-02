@@ -84,7 +84,8 @@
 
 ### 진행과정 (시행착오)
 - 프롬프트 작성 및 결과 확인
-     ![스크린샷 2023-10-03 005646](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2f03ea2d-d81c-46cf-8307-0a7d39e1b981)*awesome caption*
+     ![스크린샷 2023-10-03 005646](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2f03ea2d-d81c-46cf-8307-0a7d39e1b981)
+     awesome caption
 - 
 
 
