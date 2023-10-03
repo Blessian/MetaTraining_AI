@@ -44,7 +44,7 @@
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 
-| Library | Purpose |
+| Tech | Purpose |
 | --- | --- |
 | OpenAI GPT-4 | 프롬프트 튜닝을 통해 다양한 역할을 수행할 수 있으며, GPT-3.5 Turbo에 비하여 신뢰할 수 있는 결과물을 보여줌 |
 | Google Bard | 최신 이슈 검색에 활용 |
