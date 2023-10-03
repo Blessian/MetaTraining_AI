@@ -151,7 +151,7 @@ OpenAI의 API를 사용하며 프롬프트 작성 요령을 습득하는 기회�
 
 ### 향후 계획
 - 할루시네이션을 제어하는 RAG에 대한 학습
-- LLM에게 좀 더 다양한 역할을 수행하게 할 수 있도록 Generative Agents에 대한 학습
+- Generative Agents에 대한 학습
 - LLM의 컨텍스트 크기 확장을 위한 LongLoRA
 - LLM의 지연시간 단축을 위한 전략에 대한 학습
 
