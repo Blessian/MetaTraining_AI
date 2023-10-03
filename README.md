@@ -88,6 +88,8 @@
 ![스크린샷 2023-09-30 190919](https://github.com/Blessian/MetaTraining_AI/assets/74029539/d18a5f9b-409a-4e6f-8e43-240b09ee9651)
 - [간트차트 작성](https://docs.google.com/spreadsheets/d/1lLzEKg-K05hdMZLEdZCs5oLfDxMPo0d_rpSOa-5KKJ0/edit#gid=1737882262)
 
+<br>
+
 ### 진행과정 (시행착오)
 #### 프롬프트 작성 및 결과 확인
 ![스크린샷 2023-10-03 005646](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2f03ea2d-d81c-46cf-8307-0a7d39e1b981)
