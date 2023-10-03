@@ -33,7 +33,7 @@
      - 주제 추천 (최신 이슈 반영): 글의 주제를 자동 생성하여 추천 (주제 추천에 최신 이슈가 반영)
 - 교정
      - 제목 추천: 사용자가 작성한 글의 제목을 자동 생성
-     - 어색한 문장 찾기: 작성된 내용 중 어색한 문장을 찾아 수정은 제안
+     - 어색한 문장 찾기: 작성된 내용 중 어색한 문장을 찾아 수정을 제안
 
 ### 사용 기술
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
@@ -41,6 +41,10 @@
 [![Google Bard Badge](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=for-the-badge)](https://bard.google.com/chat?hl=ko)
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/ko/)
+
+| ㅁㄴㅇㄹ | ㅁㄴㅇㄹ |
+| --- | --- |
+
 
 - OpenAI GPT-4: 프롬프트 튜닝을 통해 다양한 역할을 수행할 수 있으며, GPT-3.5 Turbo에 비하여 신뢰할 수 있는 결과물을 보여줌
 - Google Bard: 최신 이슈 검색에 활용
