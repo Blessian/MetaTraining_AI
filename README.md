@@ -133,7 +133,7 @@
 
 # 📊  결과
 ### 프로젝트 시연 영상
-[![스크린샷 2023-09-30 202728](http://img.youtube.com/vi/PF1W-fF4AwQ/0.jpg)](https://youtu.be/PF1W-fF4AwQ?si=dT6OQE_0Vbe-UHCc){:target="_blank"}
+[![스크린샷 2023-09-30 202728](http://img.youtube.com/vi/PF1W-fF4AwQ/0.jpg)](https://youtu.be/PF1W-fF4AwQ?si=dT6OQE_0Vbe-UHCc)
 
 ### 프로젝트에서 얻은 교훈과 인사이트
 - API 사용에 따른 비용 부담:
