@@ -93,7 +93,12 @@
      ![스크린샷 2023-10-03 005646](https://github.com/Blessian/MetaTraining_AI/assets/74029539/2f03ea2d-d81c-46cf-8307-0a7d39e1b981)
      - 기능별 프롬프트를 작성하고 의도한 결과가 출력되는지 확인했다.
      - GPT-4의 경우 출력 양식(ex. Json 형식, 리스트 형식 등)을 예시로 제공하면 출력 양식에 맞춰 출력되는 것을 확인
-- 
+- API를 통해 주고받을 자료형, 양식 확정
+     ![스크린샷 2023-10-03 105307](https://github.com/Blessian/MetaTraining_AI/assets/74029539/79b931a1-b6d1-4889-9225-c0d4eab94881)
+     - API 호출 밥법 정의
+     - 변수 자료형 정의
+     - 변수명 정의
+  
 
 
 <br>
