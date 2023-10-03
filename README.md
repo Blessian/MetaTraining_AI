@@ -41,6 +41,7 @@
 [![Google Bard Badge](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff&style=for-the-badge)](https://bard.google.com/chat?hl=ko)
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/ko/)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
 
 | Library | Purpose |
 | --- | --- |
@@ -48,6 +49,7 @@
 | Google Bard | 최신 이슈 검색에 활용 |
 | Langchain | LLM을 쉽게 제어할 수 있도록 돕는 프레임워크 |
 | FastAPI | LLM API를 호출할 수 있도록 API서버를 구성 |
+| BeautifulSoup | 검색 결과를 크롤링하기 위해 사용 |
 
 
 <br>
