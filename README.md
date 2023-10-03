@@ -42,6 +42,7 @@
 [![Langchain](https://img.shields.io/badge/%F0%9F%A6%9C%F0%9F%94%97langchain-fff?style=for-the-badge)](https://www.langchain.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/ko/)
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-fff?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 
 | Library | Purpose |
 | --- | --- |
@@ -50,6 +51,7 @@
 | Langchain | LLM을 쉽게 제어할 수 있도록 돕는 프레임워크 |
 | FastAPI | LLM API를 호출할 수 있도록 API서버를 구성 |
 | BeautifulSoup | 검색 결과를 크롤링하기 위해 사용 |
+| SQLite | 자체 모델을 훈련시킬 목적으로 데이터 수집 |
 
 
 <br>
